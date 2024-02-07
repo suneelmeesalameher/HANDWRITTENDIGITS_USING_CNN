@@ -1,4 +1,4 @@
 # HANDWRITTENDIGITS_USING_CNN
 
 An upgrade to the Handwritten digit with using CNN and also, here we take our own input through Pc.
-Accuracyb of 99%.
+Accuracy of 99%.
