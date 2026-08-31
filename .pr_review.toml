@@ -1,0 +1,14 @@
+[review]
+severity_threshold = "high"
+max_diff_chars = 60000
+ignore_paths = [
+    "*.lock",
+    "*-lock.json",
+    "*.min.js",
+    "*.min.css",
+    "dist/*",
+    "build/*",
+    "vendor/*",
+    "node_modules/*",
+]
+post_comment = true
